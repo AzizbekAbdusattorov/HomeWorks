@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="450dfb3e-98a8-4e5a-8bb2-a3f641a9db09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWorkGita.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_10/homework_1/MainHomeWork_1.java" afterDir="false" />
-    </list>
+    <list default="true" id="450dfb3e-98a8-4e5a-8bb2-a3f641a9db09" name="Changes" comment="HomeWorks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +48,19 @@
       <option name="presentableId" value="Default" />
       <updated>1702655923615</updated>
     </task>
+    <task id="LOCAL-00001" summary="HomeWorks">
+      <option name="closed" value="true" />
+      <created>1702656504610</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702656504610</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HomeWorks" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWorks" />
   </component>
 </project>
